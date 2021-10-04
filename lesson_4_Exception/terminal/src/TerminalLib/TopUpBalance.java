@@ -10,7 +10,7 @@ public class TopUpBalance  {
     public int UpBalance(){
         DataMoney data = new DataMoney();
         Scanner console = new Scanner(System.in);
-        System.out.println("Для пополнения счета ведите сумму кратную 100");
+        System.out.println("Для пополнения счета введите сумму кратную 100");
         try {
             String st = console.nextLine();
             amount = Integer.parseInt(String.valueOf(st));

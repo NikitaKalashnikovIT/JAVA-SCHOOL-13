@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d5e3465-7f49-4e6b-8dd8-58876452acdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/Main/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/Main/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/Messages/src/main/java/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/Messages/src/test/java/MessagesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/Search/src/main/java/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/Search/src/test/java/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/ViewingProfiles/src/main/java/Profiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialNetwork/ViewingProfiles/src/test/java/ProfilesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/out/production/Terminal/META-INF/Terminal.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/out/production/Terminal/PinCode/PinCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/out/production/Terminal/Terminal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/out/production/Terminal/TerminalLib/DataMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/out/production/Terminal/TerminalLib/GetCash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/out/production/Terminal/TerminalLib/SelectOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/out/production/Terminal/TerminalLib/ShowBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/out/production/Terminal/TerminalLib/TopUpBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/out/production/Terminal/TimerDelay/TimerDelay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/src/PinCode/PinCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/src/Terminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/src/TerminalLib/DataMoney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/src/TerminalLib/GetCash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/src/TerminalLib/SelectOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/src/TerminalLib/ShowBalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/src/TerminalLib/TopUpBalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_3_Exception/terminal/src/TimerDelay/TimerDelay.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xr752l8uHXnBX9NLnJtc75V2Nk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d5e3465-7f49-4e6b-8dd8-58876452acdf" name="Default Changelist" comment="" />
+      <created>1631101166542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631101166542</updated>
+      <workItem from="1631101167748" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

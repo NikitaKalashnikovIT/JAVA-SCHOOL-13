@@ -8,8 +8,8 @@ public class PinCode {
     int pinVerification[] = new int[4];//Четыре значения пин-кода.
     int completionFlag ;//Флфг работы проверки пинкода.
     int cnrError ;//Количество попыток ввода пин-кода.
-    int cnt;//Счетчик введеных чисел пин-кода.
-    long timeDifference;//Изменение таймера при ожедании возможности ввода пин-кода, после.
+    int cnt;//Счетчик введенных чисел пин-кода.
+    long timeDifference;//Изменение таймера при ожидании возможности ввода пин-кода, после.
     final int Number_PinCode_[] = new int[4];//Номер пин-кода.
     final int numberError;//Количество неудачных попыток ввода неверно пин-кода.
     final long delay;//Задержка в милисек.Задержка после (numberError) количество неудачных попыток ввода пин-кода
@@ -27,7 +27,7 @@ public class PinCode {
         Number_PinCode_[3] = 4;
     }
     public void Enter() {
-        System.out.println("Введиет четырехзначный пин-код :");
+        System.out.println("Введите четырехзначный пин-код :");
         Scanner console = new Scanner(System.in);
 
         while (completionFlag == 0) {
@@ -36,7 +36,7 @@ public class PinCode {
                 //Чтение символов клавиатуры.
                 String chPin = console.nextLine();
                 char[] chArray = chPin.toCharArray();
-                //Проверка нажатия Enter при отсутствуещем символе.
+                //Проверка нажатия Enter при отсутствующем символе.
                 if (chArray.length != 0) {
                     //Введено более одного символа.
                    // if (chArray.length != 1) System.out.println("Все символы кроме первого не будут учтены.");
@@ -76,7 +76,7 @@ public class PinCode {
                     System.out.println("Осталось " + timeDifference + " секунды до возможности ввода пин-кода ");
 
                     if (timeDifference == 1) {
-                        System.out.println("Введиет четырехзначный пин-код :");
+                        System.out.println("Введите четырехзначный пин-код :");
                     }
                 }
             }

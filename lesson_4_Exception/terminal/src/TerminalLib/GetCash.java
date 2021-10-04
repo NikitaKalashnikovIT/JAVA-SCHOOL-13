@@ -24,7 +24,7 @@ public class GetCash {
                     data.balance = data.balance - amount;
                 }
                 else {
-                    System.out.println("Сумма на счете меньше запрашиваемой");
+                    System.out.println("Сумма на счету меньше запрашиваемой");
                     return 0;
                 }
         }
