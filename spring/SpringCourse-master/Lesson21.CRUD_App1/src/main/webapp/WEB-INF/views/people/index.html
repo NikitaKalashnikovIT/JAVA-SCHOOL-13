@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Все люди</title>
+</head>
+<body>
+<!--Передача на вход что-то вроде for each. Указывается коллекция people.
+И пробежаться по переменным person из которых состоит коллекция
+-->
+<div th:each="person : ${people}">
+<!--person.getName извлечет данные и вставит в user
+/people/{id} перейти по ссылке и записать в id person.getId()
+th:text="${person.getName()} достанет имя из коллекции заменив слово user
+если убрать {id} то в url будет выведено id=1 или 2 или3 или 4 в зависимости от
+выбранной строки-->
+    <a th:href="@{/people/{id}(id=${person.getId()})}" th:text="${person.getName()}">user</a>
+</div>
+
+</body>
+</html>

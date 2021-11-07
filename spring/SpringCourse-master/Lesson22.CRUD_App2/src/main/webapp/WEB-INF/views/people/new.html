@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>New person</title>
+</head>
+<body>
+<!--th:method="POST" Форма будет отправляться с методом post
+    th:action="@{/people}" куда будут передоваться данные
+    th:object="${person}" для какого объекта будет создаваться форма
+    input type="text" тип поля в которое будет вводиться значение
+    th:field="*{name}" имя поля которое есть в объекте person
+    id="name" понадобится для создания лейбла
+     <label for="name">Enter name: </label> создание лейбла поля куда вводить данные
+     <input type="submit" value="Create!"/> кнопка при нажати на которую
+     данные с этой формой отправим на адрес /people
+    -->
+<form th:method="POST" th:action="@{/people}" th:object="${person}">
+    <label for="name">Enter name: </label>
+    <label for="name">r12456: </label>
+    <input type="text" th:field="*{name}" id="name"/>
+    <br/>
+    <input type="submit" value="Create!"/>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+<body>
+<h1>!!!</h1>
+<div th:each="person : ${people}">
+    <a th:href="@{/people/{id}(id=${person.getId()})}"
+       th:text="${person.getName() + ', ' + person.getAge()}
+
+">user</a>
+</div>
+
+<br/>
+<hr/>
+
+<a href="/people/new">Create new person</a>
+
+</body>
+</html>
+<!--****************************************************************************-->
+<!--<!DOCTYPE html>-->
+<!--<html lang="en" xmlns:th="http://thymeleaf.org">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Все люди</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--&lt;!&ndash;Передача на вход что-то вроде for each. Указывается коллекция people.-->
+<!--И пробежаться по переменным person из которых состоит коллекция-->
+<!--&ndash;&gt;-->
+<!--<div th:each="person : ${people}">-->
+<!--    &lt;!&ndash;person.getName извлечет данные и вставит в user-->
+<!--    /people/{id} перейти по ссылке и записать в id person.getId()-->
+<!--    th:text="${person.getName()} достанет имя из коллекции заменив слово user-->
+<!--    если убрать {id} то в url будет выведено id=1 или 2 или3 или 4 в зависимости от-->
+<!--    выбранной строки&ndash;&gt;-->
+<!--    <a th:href="@{/people/{id}(id=${person.getId()})}" th:text="${person.getName()}">user</a>-->
+<!--</div>-->
+
+<!--</body>-->
+<!--</html>-->
+/**************************************************************************/
+<!--обязательно использовать таймлтфовский th: так как просто method не поддерживает "PATCH"
+данные с этой формы должны посылаться на адресс/people/{id} //// @{/people/{id}(id=${person.getId()})}
+th:object="${person} -может вхять значение поля name
+-->
+<!--******************************************************************-->
+<!--<!DOCTYPE html>-->
+<!--<html lang="en" xmlns:th="http://thymeleaf.org">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>New person</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--&lt;!&ndash;th:method="POST" Форма будет отправляться с методом post-->
+<!--    th:action="@{/people}" куда будут передоваться данные-->
+<!--    th:object="${person}" для какого объекта будет создаваться форма-->
+<!--    input type="text" тип поля в которое будет вводиться значение-->
+<!--    th:field="*{name}" имя поля которое есть в объекте person-->
+<!--    id="name" понадобится для создания лейбла-->
+<!--     <label for="name">Enter name: </label> создание лейбла поля куда вводить данные-->
+<!--     <input type="submit" value="Create!"/> кнопка при нажати на которую-->
+<!--     данные с этой формой отправим на адрес /people-->
+<!--    &ndash;&gt;-->
+<!--<form th:method="POST" th:action="@{/people}" th:object="${person}">-->
+<!--    <label for="name">Enter name: </label>-->
+<!--    <label for="name">r12456: </label>-->
+<!--    <input type="text" th:field="*{name}" id="name"/>-->
+<!--    <br/>-->
+<!--    <input type="submit" value="Create!"/>-->
+<!--</form>-->
+
+<!--</body>-->
+<!--</html>-->
+<!--******************************************************************-->
+<!--<!DOCTYPE html>-->
+<!--<html lang="en" xmlns:th="http://thymeleaf.org">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>New person</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--&lt;!&ndash;th:method="POST" Форма будет отправляться с методом post-->
+<!--    th:action="@{/people}" куда будут передоваться данные-->
+<!--    th:object="${person}" для какого объекта будет создаваться форма-->
+<!--    input type="text" тип поля в которое будет вводиться значение-->
+<!--    th:field="*{name}" имя поля которое есть в объекте person-->
+<!--    id="name" понадобится для создания лейбла-->
+<!--     <label for="name">Enter name: </label> создание лейбла поля куда вводить данные-->
+<!--     <input type="submit" value="Create!"/> кнопка при нажати на которую-->
+<!--     данные с этой формой отправим на адрес /people-->
+<!--    &ndash;&gt;-->
+<!--<form th:method="POST" th:action="@{/people}" th:object="${person}">-->
+<!--    <label for="name">Enter name: </label>-->
+<!--    <label for="name">r12456: </label>-->
+<!--    <input type="text" th:field="*{name}" id="name"/>-->
+<!--    <br/>-->
+<!--    <input type="submit" value="Create!"/>-->
+<!--</form>-->
+
+<!--</body>-->
+<!--</html>-->

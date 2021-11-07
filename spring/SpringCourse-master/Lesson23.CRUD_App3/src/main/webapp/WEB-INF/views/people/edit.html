@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Update person</title>
+</head>
+<body>
+<!--обязательно использовать таймлтфовский th: так как просто method не поддерживает "PATCH"
+данные с этой формы должны посылаться на адресс/people/{id} //// @{/people/{id}(id=${person.getId()})}
+th:object="${person} -может вхять значение поля name
+-->
+<form th:method="PATCH" th:action="@{/people/{id}(id=${person.getId()})}" th:object="${person}">
+    <label for="name">Enter name: </label>
+    <input type="text" th:field="*{name}" id="name"/>
+    <br/>
+    <input type="submit" value="Update!"/>
+</form>
+
+</body>
+</html>

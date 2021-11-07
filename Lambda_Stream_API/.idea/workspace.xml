@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e221ca3a-e404-4705-913d-27d321e87400" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lesson_15_patterns/Builder/src/BuildWebsiteRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_15_patterns/Builder/src/Cms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_15_patterns/Builder/src/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_15_patterns/Builder/src/EnterpriseWebsiteBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_15_patterns/Builder/src/VisitCardWebsiteBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_15_patterns/Builder/src/Website.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_15_patterns/Builder/src/WebsiteBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_14_concurrent" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson_14_concurrent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/manufactory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/out/production/manufactory/CppDeveloper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/out/production/manufactory/CppDeveloperFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/out/production/manufactory/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/out/production/manufactory/DeveloperFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/out/production/manufactory/JavaDeveloper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/out/production/manufactory/JavaDeveloperFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/out/production/manufactory/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/src/CppDeveloper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/src/CppDeveloperFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/src/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/src/DeveloperFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/src/JavaDeveloper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/src/JavaDeveloperFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson_15_patterns/manufactory/src/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/spring1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/spring1/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var1/Main2.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#645#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var1/Generator2.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#201#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var1/GenContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#183#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var1/Data.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-839">
+              <folding>
+                <element signature="e#0#1666#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var2/Generator1.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#207#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var2/GeneratorContext1.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#191#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var2/Main1.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#630#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var2/Proba.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-797">
+              <folding>
+                <element signature="e#0#1820#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="190" />
+    <option name="width" value="1835" />
+    <option name="height" value="605" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lesson_9_Lambda_Stream_API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson_9_Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson_9_Lambda_Stream_API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson_9_Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson_9_Lambda_Stream_API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson_9_Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson_9_Lambda_Stream_API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson_9_Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson_9_Lambda_Stream_API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson_9_Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson_9_Lambda_Stream_API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson_9_Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson_9_Lambda_Stream_API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson_9_Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson_9_Lambda_Stream_API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson_9_Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception2" type="462c0819:PsiDirectoryNode" />
+              <item name="add_var1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson_9_Lambda_Stream_API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson_9_Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception2" type="462c0819:PsiDirectoryNode" />
+              <item name="add_var2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson_9_Lambda_Stream_API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson_9_Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda_Stream_API" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception2" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e221ca3a-e404-4705-913d-27d321e87400" name="Default Changelist" comment="" />
+      <created>1635667472507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635667472507</updated>
+      <workItem from="1635667473816" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var1/Main2.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var1/Generator2.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var1/GenContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var1/Data.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-839">
+          <folding>
+            <element signature="e#0#1666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var2/Generator1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var2/GeneratorContext1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var2/Main1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambda_Stream_API/out/production/Exception2/add_var2/Proba.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-797">
+          <folding>
+            <element signature="e#0#1820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
